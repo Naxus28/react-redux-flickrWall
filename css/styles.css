@@ -1,0 +1,160 @@
+html,
+body,
+div#root,
+div#root>div,
+div.loadingWrapper,
+div.errorMessageWrapper{
+	width: 100%;
+	height: 100%;
+}
+div.loadingWrapper,
+div.errorMessageWrapper{
+	background: rgb(31, 120, 200);
+}
+.spinner{
+	text-align: center;
+}
+body{
+	margin: 0;
+}
+#example{
+	position: relative;
+}
+article{
+	background: rgb(45, 45, 45);
+	position: relative;
+}
+section{
+	overflow:hidden;
+}
+h2.header{
+	box-sizing: border-box;
+	position: absolute;
+	top: 100px;
+	width:100%;
+	left: 0%;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+	z-index:10;
+	font-size: 3.8em;
+	text-transform: uppercase;
+}
+h3.getRecent_header, 
+h3.searchPhotos_header
+{
+	box-sizing: border-box;
+	position: absolute;
+	width:100%;
+	top: 220px;
+	left: 0%;
+	text-align: center;
+	z-index: 10;
+	font-size: 2em;
+}
+.apiError{
+	width: 100%;
+	padding-top: 50px;
+	margin-top: 0;
+	text-align: center;
+	font-size: 2.3em;
+}
+.apiErrorMessage{
+	width: 100%;
+	text-align: center;
+	font-size: 1.8em;
+	padding-top: 20px;
+}
+.loading{
+	text-align: center;
+	font-size: 4em;
+	padding-top: 200px;
+	margin-top: 0px;
+}
+.form{
+	width: 40%;
+	position: fixed;
+	top: 45%;
+	left: 50%;
+	margin-left: -20%;
+	z-index:10;
+	box-shadow: 0 0 30px 2px rgba(50,50,50,.7);
+}
+.form input{
+	box-sizing: border-box;
+	display: block;
+	width: 100%;
+	height: 40px;
+	padding: 0;
+	padding-left: 10px;
+	border:none;
+	font-size: 1em;
+	letter-spacing: 0.8px;
+}
+.form button{
+	margin-top: 5px;
+	width: 100%;
+	height: 40px;
+	border:none;
+	cursor: pointer;
+	background: rgb(88, 126, 214);
+	color: white;
+	font-size: .8em;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.imageWrapper{
+	float: left;
+	width: 10%;
+	height:100px;
+	max-width:19%;
+	max-height:100px;
+	overflow:hidden;
+}
+.images{
+	cursor: pointer;
+	min-height: 100%;
+	min-width: 100%;
+	 -moz-transition: opacity .8s ease;
+    -webkit-transition: opacity .8s ease;
+    -o-transition: opacity .8s ease;
+    transition: opacity .8s ease;
+    opacity:.5;
+}
+.images:hover{
+	opacity:1;
+}
+@media screen and (max-width: 1210px){
+	.imageWrapper{
+		width: 20%;
+		max-width: 20%;
+	}
+}
+@media screen and (max-width: 920px){
+	.imageWrapper{
+		width: 25%;
+		max-width: 25%;
+	}
+}
+@media screen and (max-width: 780px){
+	.form{
+		width: 80%;
+		top: 45%;
+		left: 50%;
+		margin-left: -40%;
+		z-index:10;
+		box-shadow: 0 0 40px 5px black;
+	}
+	h2.header{
+		font-size: 2em;
+	}
+}
+@media screen and (max-width: 480px){
+	.imageWrapper{
+		width: 50%;
+		max-width: 50%;
+	}
+	h2.header{
+		font-size: 1.8em;
+	}
+}

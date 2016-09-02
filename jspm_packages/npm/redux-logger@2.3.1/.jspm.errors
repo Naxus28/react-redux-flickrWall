@@ -1,0 +1,4 @@
+MultipleErrors: /Users/gabrielferraz/.jspm/packages/npm/redux-logger@2.3.1/src/index.js:128:1: Unexpected reserved word export
+/Users/gabrielferraz/.jspm/packages/npm/redux-logger@2.3.1/src/index.js:128:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/redux-logger@2.3.1/src/index.js:128:8: Unexpected reserved word default
+/Users/gabrielferraz/.jspm/packages/npm/redux-logger@2.3.1/src/index.js:128:16: Semi-colon expected

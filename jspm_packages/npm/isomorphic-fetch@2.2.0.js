@@ -1,0 +1,1 @@
+module.exports = require("npm:isomorphic-fetch@2.2.0/fetch-npm-browserify.js");

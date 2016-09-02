@@ -1,0 +1,103 @@
+MultipleErrors: /Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:1:21: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:1:28: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:1:62: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:2:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:2:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:2:19: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:2:24: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:3:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:3:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:3:21: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:3:26: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:4:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:4:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:4:22: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:4:27: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:5:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:5:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:5:27: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:5:32: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:6:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:6:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:6:21: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:6:26: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:7:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:7:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:7:18: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:7:23: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:12:3: Unexpected token ...
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:13:16: Unexpected token ,
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:13:3: Unexpected token ...
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:14:3: Unexpected token ...
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:14:6: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:24:1: Unexpected reserved word export
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:24:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:24:8: Unexpected reserved word default
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:24:16: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:133:51: Unexpected token :
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:133:52: Unexpected token :
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:133:53: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:133:70: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:133:70: Unexpected token )
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:238:13: Unexpected token ...
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:238:16: Unexpected token this
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:239:16: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:239:16: Unexpected token :
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:239:18: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:240:12: Unexpected token )
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:241:16: Unexpected token {
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:242:11: Unexpected token this
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:242:15: Unexpected token .
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:247:16: Unexpected token this
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:247:20: Unexpected token .
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:247:21: Unexpected token renderedElement
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/connect.js:277:1: Unexpected token }
+
+MultipleErrors: /Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:1:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:1:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:1:48: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:2:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:2:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:2:19: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:2:24: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:20:1: Unexpected reserved word export
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:20:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:20:8: Unexpected reserved word default
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/components/Provider.js:20:16: Semi-colon expected
+
+MultipleErrors: /Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/isPlainObject.js:7:1: Unexpected reserved word export
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/isPlainObject.js:7:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/isPlainObject.js:7:8: Unexpected reserved word default
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/isPlainObject.js:7:16: Semi-colon expected
+
+MultipleErrors: /Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/shallowEqual.js:1:1: Unexpected reserved word export
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/shallowEqual.js:1:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/shallowEqual.js:1:8: Unexpected reserved word default
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/shallowEqual.js:1:16: Semi-colon expected
+
+MultipleErrors: /Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/storeShape.js:1:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/storeShape.js:1:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/storeShape.js:1:27: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/storeShape.js:3:1: Unexpected reserved word export
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/storeShape.js:3:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/storeShape.js:3:8: Unexpected reserved word default
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/storeShape.js:3:16: Semi-colon expected
+
+MultipleErrors: /Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/wrapActionCreators.js:1:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/wrapActionCreators.js:1:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/wrapActionCreators.js:1:36: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/wrapActionCreators.js:3:1: Unexpected reserved word export
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/wrapActionCreators.js:3:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/wrapActionCreators.js:3:8: Unexpected reserved word default
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/utils/wrapActionCreators.js:3:16: Semi-colon expected
+
+MultipleErrors: /Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/index.js:1:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/index.js:1:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/index.js:1:17: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/index.js:1:22: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/index.js:2:1: Unexpected reserved word import
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/index.js:2:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/index.js:2:16: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/index.js:2:21: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/index.js:4:1: Unexpected reserved word export
+/Users/gabrielferraz/.jspm/packages/npm/react-redux@4.0.5/src/index.js:4:8: Semi-colon expected

@@ -1,0 +1,4 @@
+MultipleErrors: /Users/gabrielferraz/.jspm/packages/npm/redux-thunk@1.0.2/src/index.js:1:1: Unexpected reserved word export
+/Users/gabrielferraz/.jspm/packages/npm/redux-thunk@1.0.2/src/index.js:1:8: Semi-colon expected
+/Users/gabrielferraz/.jspm/packages/npm/redux-thunk@1.0.2/src/index.js:1:8: Unexpected reserved word default
+/Users/gabrielferraz/.jspm/packages/npm/redux-thunk@1.0.2/src/index.js:1:16: Semi-colon expected
